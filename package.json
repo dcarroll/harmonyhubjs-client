@@ -24,7 +24,7 @@
     "node-stringprep": "^0.6.2",
     "node-xmpp-client": "^1.0.0-alpha18",
     "node-xmpp-core": "^1.0.0-alpha11",
-    "q": "^1.1.2",
+    "q": "^2.0.3",
     "request": "^2.48.0"
   },
   "devDependencies": {
