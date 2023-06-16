@@ -20,7 +20,7 @@
     "url": "https://github.com/swissmanu/harmonyhubjs/issues"
   },
   "dependencies": {
-    "debug": "^2.1.0",
+    "debug": "^4.3.4",
     "node-stringprep": "^0.6.2",
     "node-xmpp-client": "^1.0.0-alpha18",
     "node-xmpp-core": "^1.0.0-alpha11",
