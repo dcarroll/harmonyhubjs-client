@@ -22,10 +22,10 @@
     "npm": ">=3.0.0"
   },
   "dependencies": {
-    "debug": "^2.1.0",
+    "debug": "^4.3.6",
     "node-xmpp-client": "3.0.0",
-    "node-xmpp-stanza": "1.1.0",
-    "q": "^1.1.2",
+    "node-xmpp-stanza": "6.1.0",
+    "q": "^2.0.3",
     "request": "^2.48.0",
     "ltx": "https://github.com/swissmanu/ltx.git#cdata-for-ltx-parser"
   },
